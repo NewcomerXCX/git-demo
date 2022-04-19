@@ -6,6 +6,7 @@ Hello git!
 Hello git!
 Hello git!
 Hello git!
-Haa
+Ha
 qweqwqwqw
 ello git!
+This is v1.3
