@@ -1,14 +1,2 @@
-Hello git!
-Hello git!
-Hello git!
-Hello git!
-Hello git!
-Hello git!
-Hello git!
-Hello git!
-This is master version
-Ha
-qweqwqwqw
-ello git!
-THis is hot:-fix
+This is clone version
 I change the code in the gitHub
