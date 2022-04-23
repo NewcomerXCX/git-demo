@@ -6,8 +6,4 @@ Hello git!
 Hello git!
 Hello git!
 Hello git!
-Ha
-qweqwqwqw
-ello git!
-THis is hot:-fix
-This is v1.3
+This is master version
